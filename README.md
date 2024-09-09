@@ -83,21 +83,21 @@ localhost:8000 || localhost:5173
 Usage
 ------------
 
-Use postman for testing the api endpoints, once installed navigate to postman and import the provided `Task Management Assignment API.postman_collection.json` inside this project then follow next steps.
+For testing api endpoints, once postman installed navigate to import and upload provided `Task Management Assignment API.postman_collection.json` inside this project then follow next steps.
 
 ## Postman configuration
 
-all api endpoints should have /api/v1/. [http://127.0.0.1:8000/api/v1] !> Note that there is two main folders (public routes - no authentication needed and protected routes)
+!All api endpoints should have /api/v1/. [http://127.0.0.1:8000/api/v1] !> Note that there is two main folders (public routes - no authentication needed and protected routes)
 
-For Protected routes start with either Login or Register then copy token for authorizing these requests
+>Protected routes start with either Login or Register then copy token for authorizing these requests
 
 ![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/login.png?raw=true)
 
-Paste the token as Bearer token for usage as shown below
+>Paste the token as Bearer token for usage as shown below
 
 ![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/highlighted.png?raw=true)
 
-Finaly, make a request
+>Finaly, make a request
 
 ![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/final.png?raw=true)
 
