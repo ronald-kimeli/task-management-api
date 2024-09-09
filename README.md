@@ -87,19 +87,19 @@ Use postman for testing the api endpoints, once installed navigate to postman an
 
 ## Postman configuration
 
-  all api endpoints should have /api/v1/..... [http://127.0.0.1:8000/api/v1] !> Note that there is two main folders (public routes - no authentication needed and protected routes)
+  all api endpoints should have /api/v1/. [http://127.0.0.1:8000/api/v1] !> Note that there is two main folders (public routes - no authentication needed and protected routes)
 
     For Protected routes start with either Login or Register then copy token for authorizing these requests
 
-    ![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/login.png?raw=true)
+![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/login.png?raw=true)
 
     Paste the token as Bearer token for usage as shown below
 
-    ![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/highlighted.png?raw=true)
+![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/highlighted.png?raw=true)
 
     Finaly, make a request
 
-    ![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/final.png?raw=true)
+![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/final.png?raw=true)
 
 
 
