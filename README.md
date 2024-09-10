@@ -90,7 +90,7 @@ Database Overview
 Usage
 ------------
 
-For testing api endpoints, once postman installed navigate to import and upload provided `Task Management Assignment API.postman_collection.json` inside this project then follow next steps.
+For testing api endpoints, once postman installed navigate to import and upload provided `Task_Management_Assignment API.postman_collection.json` inside this project then follow next steps.
 
 ## Postman configuration
 
