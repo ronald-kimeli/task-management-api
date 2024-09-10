@@ -10,6 +10,7 @@ Table of Contents
 * [Features](#features)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Database Overview](#database-overview)
 
 Requirements
 ------------
@@ -79,6 +80,12 @@ Laravel will run on port 8000 and node most likely 5173 or 3000
 ```php
 localhost:8000 || localhost:5173
 ```
+
+Database Overview
+-----------------
+
+![alt text](https://github.com/ronald-kimeli/task-management-api/blob/master/public/images/database_overview.png?raw=true)
+
 
 Usage
 ------------
