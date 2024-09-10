@@ -1,4 +1,4 @@
-Task Management System API 
+Task Management API 
 ==========================
 
 This is a task management API based on laravel API, basically a user can add category (e.g New Feature) and Task for management.
