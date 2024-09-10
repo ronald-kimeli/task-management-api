@@ -33,10 +33,10 @@ Features
 --------
 
 - Create, get all, get a specific, update, delete a Task(s).
-- Datavaridation from the incoming requests.
+- Data validation from the incoming requests using custom requests.
 - Task search with their titles, status, due_date.
 - Paginated data in pages of 10 each.
-- Eloquent relationships and controller responses
+- Eloquent relationships and controller responses.
 
 Installation
 ------------
